@@ -171,7 +171,7 @@ Test your code in the terminal by running `node switch-practice.js`. Try it seve
 `while` is a loop statement that will run while a condition evaluates to truthy.
 **WARNING** if your `while` loop never evaluates to falsy you may be stuck in an infinite loop! Like this:
 
-![Loop](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgvanderzwan.nl%2Fwp-content%2Fuploads%2F2017%2F11%2Fpeter.gif&f=1&nofb=1)
+![Loop](https://thumbs.gfycat.com/ScarceIllHapuka-size_restricted.gif)
 
 ```javascript
 let n = 0
