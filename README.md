@@ -3,7 +3,12 @@
 ![Loops](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKn06785pkJg%2Fmaxresdefault.jpg&f=1&nofb=1)
 
 ## Lesson Overview
+
+In our HTML lesson, we discussed how HTML was the skeleton of the code, while JS is the brains. Lets put this analogy to use and begin working with some logic, making our code dynamic and interactive. 
+
 In this lesson, we'll learn about loops in JavaScript and how to control the flow of our code!
+
+As we discuss these different JS functions, try to think about where you have seen them on the web, and where you might use them when building up your own projects.
 
 ## Objectives
 - Learn about `if/else` and `switch` statements and contrast use-cases
